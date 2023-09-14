@@ -1,1 +1,7 @@
-# HomeAndChill
+![Artboard 7](https://github.com/FRsyesCD/HomeAndChill/assets/61872358/96fa84d4-7a7e-4b9b-89b3-52d7bc68b81b)
+![Artboard 1](https://github.com/FRsyesCD/HomeAndChill/assets/61872358/b38f0cc1-c635-4fa1-abd1-170c08fda97d)
+![Artboard 2](https://github.com/FRsyesCD/HomeAndChill/assets/61872358/9dc29ef6-ddcc-4dc6-96aa-dc6781404d61)
+![Artboard 3](https://github.com/FRsyesCD/HomeAndChill/assets/61872358/27b9a021-0dc2-4429-91ef-b9fee52490cc)
+![Artboard 4](https://github.com/FRsyesCD/HomeAndChill/assets/61872358/46905881-ca35-4b2d-bb76-1f042150da58)
+![Artboard 5](https://github.com/FRsyesCD/HomeAndChill/assets/61872358/1af5ee76-3133-4cbe-a199-40f41f271612)
+![Artboard 6](https://github.com/FRsyesCD/HomeAndChill/assets/61872358/37427056-e5f3-4145-a7b1-6963dd67d934)
